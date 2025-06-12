@@ -1,1 +1,0 @@
-// SmartChat.jsx placeholder content
