@@ -1,16 +1,1 @@
-{
-  "name": "kaizen-portfolio",
-  "version": "1.0.0",
-  "main": "src/index.jsx",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-  },
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0",
-    "recharts": "^2.1.9",
-    "framer-motion": "^6.2.4"
-  }
-}
+{"name": "kaizen-dashboard", "version": "1.0.0", "main": "src/Dashboard.jsx", "scripts": {"start": "react-scripts start", "build": "react-scripts build"}, "dependencies": {"react": "^18.2.0", "react-dom": "^18.2.0", "recharts": "^2.6.2", "framer-motion": "^10.12.16", "react-scripts": "^5.0.1"}}
