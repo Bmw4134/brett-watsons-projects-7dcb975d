@@ -1,6 +1,3 @@
-# KaizenGPT Intelligence Dashboard
+# Kaizen Intelligence Dashboard
 
-AI portfolio with telemetry, charts, and architecture stack.
-
-Live: Vercel-hosted
-Built: React + Recharts
+Includes OpenAI API integration and a live telemetry system.
