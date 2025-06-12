@@ -1,3 +1,6 @@
-# KaizenGPT Intelligence Interface
+# KaizenGPT Intelligence Dashboard
 
-Advanced React interface showcasing modular AI components.
+AI portfolio with telemetry, charts, and architecture stack.
+
+Live: Vercel-hosted
+Built: React + Recharts
