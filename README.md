@@ -1,3 +1,3 @@
-# KaizenGPT Portfolio Interface
+# KaizenGPT Intelligence Interface
 
-This is an advanced React interface for the KaizenGPT ecosystem. Modular, responsive, and deployable via Vercel.
+Advanced React interface showcasing modular AI components.
