@@ -1,13 +1,11 @@
 {
-  "name": "kaizen-interface-deploy",
+  "name": "kaizen-intelligence-dashboard",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "recharts": "^2.7.2",
-    "framer-motion": "^10.12.16"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

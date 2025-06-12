@@ -1,0 +1,11 @@
+Platform/Tool,Supported Platforms,Zero-Touch Support,Ease of Setup,Bulk Device Management,Target Audience,Key Features
+Microsoft Intune Autopilot,Windows,Yes,High,Yes,Enterprise Windows environments,"Hardware hash registration, cloud-based provisioning, Azure AD integration"
+Apple Automated Device Enrollment (ADE),"iOS, iPadOS, macOS, tvOS",Yes,High,Yes,Apple device deployments,"Apple Business Manager integration, supervised mode, MDM enrollment"
+Android Zero-Touch Enrollment,Android,Yes,High,Yes,Android Enterprise deployments,"Google Play console integration, EMM assignment, device owner provisioning"
+Samsung Knox Mobile Enrollment,Samsung Android devices,Yes,High,Yes,Samsung device enterprises,"Knox security platform, reseller integration, dual encryption support"
+BlackBerry UEM,"iOS, Android, Windows, macOS",Partial,Medium,Yes,Enterprise mobility management,"Cross-platform management, DEP integration, security-focused"
+VMware Workspace ONE,"iOS, Android, Windows, macOS",Yes,Medium,Yes,Enterprise digital workspace,"Unified endpoint management, app management, conditional access"
+Citrix Endpoint Management,"iOS, Android, Windows",Partial,Medium,Yes,Enterprise mobility,"MDM/MAM capabilities, micro VPN, policy management"
+ManageEngine Mobile Device Manager Plus,"iOS, Android, Windows, macOS",Yes,Medium,Yes,Small to medium enterprises,"Multi-platform support, automated enrollment, policy enforcement"
+42Gears SureMDM,"iOS, Android, Windows, macOS",Yes,Medium,Yes,Enterprise mobility management,"EMM suite, BYOD management, remote control capabilities"
+Scalefusion,"Android, iOS, Windows, macOS",Yes,High,Yes,Android Enterprise focused,"Zero-touch enrollment, kiosk mode, policy management"
